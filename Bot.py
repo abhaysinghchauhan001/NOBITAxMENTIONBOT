@@ -37,12 +37,12 @@ async def start(event):
     await event.client.send_file(
         event.chat_id,
         file="https://files.catbox.moe/7qyorb.jpg",
-        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ɴᴏʙɪᴛᴀ ʙᴏᴛ](https://t.me/ll_YOURR_NOBITA_ll)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ɴᴏʙɪᴛᴀ ʜᴇʟᴘ](https://t.me/NOBITA_MUSIC_SUPPORT)┓\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/ll_YOURR_NOBITA_ll) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [𝚴 𝐎 𝐁 𝚰 𝐓 𝚲](https://t.me/ll_YOURR_NOBITA_ll)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ɴᴏʙɪᴛᴀ ᴜᴘᴅᴀᴛᴇ](https://t.me/NOBITA_MUSIC_SUPPORT)┓\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/ll_YOURR_NOBITA_ll) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
             [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/NOBITA_MENTIONBOT?startgroup=true")],
             [Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/+sIl5s2_0xvAyMjhl"), Button.url("❤️‍🔥 ᴜᴘᴅᴀᴛᴇ 💫", "https://t.me/NOBITA_MUSIC_SUPPORT")],
-             [Button.url("❤️‍🔥 𝐍ᴏʙɪᴛᴀ ❤️‍🔥", "https://t.me/ll_YOURR_NOBITA_ll")]
+             [Button.url("❤️‍🔥 ᴏᴡɴᴇʀ ❤️‍🔥", "https://t.me/ll_YOURR_NOBITA_ll")]
         ]
     )
 
